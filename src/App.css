@@ -1,0 +1,7 @@
+.left {
+    border: 1px solid gray
+}
+
+.column {
+    min-height: 800px;
+}
